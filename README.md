@@ -2,19 +2,17 @@
 
 ## Overview
 
-This project features two comprehensive **Global Sales Performance Dashboards** designed in Excel, focusing on key performance indicators for sales, profit, and unit distribution across various segments, products, and countries for 2018 and 2019. The dashboards are interactive, allowing users to filter data based on **Segments**, **Countries**, **Products**, **Months**, and **Discount Bands**, which offers deeper insights into sales patterns.
+This project features two comprehensive **Global Sales Performance Dashboards** designed in Excel, focusing on key performance indicators for sales, profit, and unit distribution across various segments, products, and countries for 2018 and 2019. The dashboards are interactive, allowing users to filter data based on **Segments**, **Countries**, **Products**, **Months**, and **Discount Bands**, offering deeper insights into sales patterns.
 
 ### Dashboard Visual Themes
-1. **Classic Blue-Themed Dashboard**: Provides a high-level overview of total sales, profits, and units sold, with detailed segment breakdowns and product sales performance across different years.
-2. **Modern Dark-Themed Dashboard**: Offers deeper insights into product and segment performance across different countries, alongside monthly profitability and the impact of discounts on sales.
-
-[Click here to view the interactive dashboards](#) <!-- Replace with actual link once the dashboards are hosted -->
+1. **Dashboard One**: Provides a high-level overview of total sales, profits, and units sold, with detailed segment breakdowns and product sales performance across different years.
+2. **Dashboard Two**: Offers deeper insights into product and segment performance across different countries, alongside monthly profitability and the impact of discounts on sales.
 
 ---
 
-## Dashboard 1: Classic Blue-Themed Sales Dashboard
+## Dashboard 1
 
-![Blue-Themed Dashboard](./path_to_image/Blue-excel.png)
+![Classic Blue-Themed Dashboard](https://drive.google.com/uc?export=view&id=1hvwMyLfHZziRxEttj8-VqfNzqbBz4Y-A)
 
 ### Key Metrics
 
@@ -57,9 +55,9 @@ This project features two comprehensive **Global Sales Performance Dashboards** 
 
 ---
 
-## Dashboard 2: Modern Dark-Themed Sales Dashboard
+## Dashboard 2
 
-![Dark-Themed Dashboard](./path_to_image/Rainbow-excel.png)
+![Modern Dark-Themed Dashboard](https://drive.google.com/uc?export=view&id=168sDKdOAdtIGolrn0J58ZKXfo-td2K39)
 
 ### Key Metrics
 
